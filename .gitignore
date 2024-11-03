@@ -1,0 +1,9 @@
+count
+history
+
+# Rust ignore
+debug/
+target/
+Cargo.lock
+*.pdb
+**/*.rs.bk
